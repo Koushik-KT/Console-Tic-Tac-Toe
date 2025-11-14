@@ -1,0 +1,21 @@
+Build Artifacts
+
+*.o
+*.out
+*.exe
+
+Visual Studio/Code Files
+
+.vscode/
+*.suo
+*.user
+*.ilk
+*.pdb
+
+Other common temporary files
+
+*~
+
+Ignore this markdown file itself if you copy it into the project folder
+
+README.md
