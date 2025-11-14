@@ -1,0 +1,5 @@
+**C++ Console Tic-Tac-Toe (AI Implementation)**
+
+**A robust, command-line implementation of the classic Tic-Tac-Toe game developed in C++, showcasing strong Object-Oriented Design (OOD) principles. The core TicTacToe class encapsulates all game state, manages multi-round sessions, and includes persistent statistics tracking (Wins, Losses, Draws).**
+
+**The single-player mode features a heuristic-based Artificial Intelligence (AI) opponent. The AI utilizes a simple lookahead algorithm with backtracking (checkPotentialWin) to prioritize moves that ensure victory or immediately block the human player. This demonstrates proficiency in algorithmic problem-solving, state management, and data structure utilization (std::vector). The application also features comprehensive input validation for crash-proof operation, making it an excellent example of professional, efficient C++ development.**
